@@ -1,4 +1,4 @@
-### My Programming Languages
+## My Programming Languages
 
 <p align="center"> 
   <img src="https://camo.githubusercontent.com/55e1508d75defa7d658205a949df888cfc46f1fc0c933478c71a7d9bd208029a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d4635344132413f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465"/>
@@ -13,11 +13,20 @@
   <img src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"/>
 </p>
 
-### Achievements
+## Achievements
 
 <p align="center"> 
 <a href="https://www.wwdcscholars.com/s/18B2B0C6-CB86-4AA8-B6F7-67F2054B087A/2021"  target="blank"><img src="https://github.com/LucasClaro/LucasClaro/blob/master/assets/wwdc.png" width="90"></a>
 </p>
+
+## Connect with Me
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+  <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
+</p>
+
+<p align="center"><small>Links on the left</small></p>
 
 <!--
 **LucasClaro/LucasClaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

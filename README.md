@@ -15,7 +15,9 @@
 
 ### Achievements
 
-
+<p align="center"> 
+<a href="https://www.wwdcscholars.com/s/18B2B0C6-CB86-4AA8-B6F7-67F2054B087A/2021"  target="blank"><img src="https://github.com/LucasClaro/LucasClaro/blob/master/assets/wwdc.png" width="90"></a>
+</p>
 
 <!--
 **LucasClaro/LucasClaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
